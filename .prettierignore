@@ -1,0 +1,17 @@
+## Files
+.turbo
+.cache
+pnpm-lock.yaml
+
+## @acme/frontend
+apps/frontend/build
+apps/frontend/public/build
+
+## @acme/backend
+apps/backend/lib
+
+## @acme/api
+packages/api/lib
+
+## @acme/db
+packages/db/lib

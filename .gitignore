@@ -1,0 +1,7 @@
+## Files
+.env.local
+
+
+## Folders
+.turbo
+node_modules

@@ -1,0 +1,19 @@
+{
+	"name": "acme-monorepo",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"keywords": [],
+	"author": "Peter van Meijgaard <petervanmeijgaard@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "turbo run dev",
+		"build": "turbo run build",
+		"start": "turbo run start",
+		"format": "prettier --check --cache ."
+	},
+	"dependencies": {
+		"prettier": "^3.0.3",
+		"turbo": "^1.10.16"
+	}
+}
